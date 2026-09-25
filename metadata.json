@@ -1,0 +1,6 @@
+{
+  "name": "Zaria AI",
+  "description": "Smart agricultural assistant for Pakistani farmers with crop disease diagnosis, Gemini AI advisory, voice guidance, and market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

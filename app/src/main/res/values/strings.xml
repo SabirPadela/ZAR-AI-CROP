@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zaria AI</string>
+    <string name="app_tagline">Smart Agricultural Advisory for Pakistani Farmers</string>
+    <string name="sign_in_title">Welcome to Zaria AI</string>
+    <string name="sign_in_subtitle">Sign in with your Google account to sync crop scans, field logs, and real-time mandi prices.</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="nav_scanner">Scan Crop</string>
+    <string name="nav_advisor">Agri Advisor</string>
+    <string name="nav_market">Mandi Rates</string>
+    <string name="nav_centers">Kisan Centers</string>
+    <string name="nav_history">My Field Logs</string>
+</resources>
